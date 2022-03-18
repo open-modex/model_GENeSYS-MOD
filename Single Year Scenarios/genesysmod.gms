@@ -54,7 +54,7 @@ $if not set data_file                    $setglobal data_file Data_Modex_ID58
 $if not set hourly_data_file             $setglobal hourly_data_file Data_Modex_ID58_hourly
 $if not set threads                      $setglobal threads 3
 $if not set timeseries                   $setglobal timeseries elmod
-$if not set elmod_nthhour                $setglobal elmod_nthhour 25
+$if not set elmod_nthhour                $setglobal elmod_nthhour 49
 $if not set elmod_starthour              $setglobal elmod_starthour 1
 $if not set elmod_dunkelflaute           $setglobal elmod_dunkelflaute 0
 

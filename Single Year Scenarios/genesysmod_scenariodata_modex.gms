@@ -26,7 +26,7 @@
 * #############################################################
 
 $ifthen %scenario% == Base
-$endif
+$endif 
 
 $ifthen %scenario% == RETarget
 REMinProductionTarget(r_full,'electricity','2030') = 0.8;
